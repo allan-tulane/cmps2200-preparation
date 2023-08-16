@@ -17,8 +17,8 @@
   + If it seems things don't refresh, try running `from main import *`
 - You can exit the IPython prompt by either typing `exit` or pressing `ctrl-d`
 - To run tests, from the command-line shell, you can run
-  + `pytest main.py` will run all tests
-  + `pytest main.py::test_one` will just run `test_one`
+  + `pytest test_main.py` will run all tests
+  + `pytest test_main.py::test_one` will just run `test_one`
   + We recommend running one test at a time as you are debugging.
 
 ## Turning in your work
