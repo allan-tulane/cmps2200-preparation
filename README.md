@@ -27,4 +27,4 @@
 - Although you are working as a team, please have each team member submit the same code to their repository. One person can copy the code to their repl.it and submit it from there.
 
 ## More details of step-wise operations
-- Please refer to Course Preparation Introduction.pdf
+- Please refer to `Course Preparation Introduction.pdf`
