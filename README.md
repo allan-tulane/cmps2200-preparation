@@ -1,6 +1,8 @@
 # CMPS 2200  Preparation
 
 
+## Details of step-wise operations
+- Please refer to `Course Preparation Introduction.pdf` <a href='https://github.com/allan-tulane/cmps2200-preparation/blob/main/Course%20Preparation%20Introduction.pdf'>[Link]</a>
 
 ## Setup
 - Make sure you have a Github account.
@@ -9,7 +11,7 @@
 - Click on the assignment link sent through canvas and accept the assignment. 
 - Click on your personal github repository for the assignment.
 - Login in Repls https://replit.com/repls and then create a new replit by importing from github repository.
-- You'll work with a partner to complete this recitation. To do so, we'll break you into Zoom rooms. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
+- You'll work with a partner to complete this recitation. You will be able to code together in the same `repl.it` instance. You can choose whose repl.it instance you will share. This person will click the "Share" button in their repl.it instance and email the lab partner.
 - Make sure the dependencies are installed. Please use 'pip install -r requirements.txt'.
 
 ## Running and testing your code
@@ -26,5 +28,3 @@
 - Click "commit and push." This will push your code to your github repository.
 - Although you are working as a team, please have each team member submit the same code to their repository. One person can copy the code to their repl.it and submit it from there.
 
-## More details of step-wise operations
-- Please refer to `Course Preparation Introduction.pdf`
