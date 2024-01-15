@@ -17,8 +17,8 @@
 ## Running and testing your code
 - You can modify and add any functions or statements in `main.py`, then test it using `test_main.py`. Please make sure `test_main.py` includes `from main import *`.
 - To run tests, from the command-line shell, you can run
-  + `pytest test_main.py` will run all tests
-  + `pytest test_main.py::test_one` will just run `test_one`
+  + `pytest test_main.py` will run all test functions.
+  + `pytest test_main.py::test_one` will just run `test_one` function.
   + We recommend running one test at a time as you are debugging.
 
 ## Turning in your work
